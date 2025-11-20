@@ -1,5 +1,5 @@
 import React from "react";
-import { FaStar, FaBolt, FaDna, FaInfoCircle } from "react-icons/fa";
+import { FaStar, FaBolt, FaDna } from "react-icons/fa";
 import { GiSparkles } from "react-icons/gi";
 import type { PokemonDetail } from "../api/pokemonApi";
 
